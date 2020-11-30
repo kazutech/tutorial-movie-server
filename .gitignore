@@ -64,5 +64,4 @@ node_modules/
 # dotenv environment variables file
 .env
 
-/functions/*
-!/functions/tutorial-moive-firebase-adminsdk-j58d4-220b230139.json
+functions/tutorial-moive-firebase-adminsdk-j58d4-220b230139.json
